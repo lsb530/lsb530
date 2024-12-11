@@ -25,6 +25,16 @@
 ### Learn
 - Redis, Kafka(Apache, Confluent)/Kafka Connect/Kafka Stream/KSQLDB, Kubernetes
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/lsb530?pet-id=654696471313633681"
+    width="1000"
+    height="200"
+  />
+</a>
+  
+
 <div align=center>
 	<a href="https://github.com/devxb/gitanimals">
 	<img
