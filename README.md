@@ -16,17 +16,16 @@
 ### Platform Engineer, Backend Developer
 - I enjoy solving problem situations by writing code
 
-### Interest
+### Skills
 - Languages: Kotlin, Java, Javascript, Typescript
 - Spring Projects: Security, Webflux, Cloud, Batch
-- Test: JUnit, Kotest
+- Test: JUnit, Kotest, Testcontainers, RestDocs
 - Database: Mysql, MongoDB, Postgresql
-- Code Style: Object Oriented Programming
+- Persistence Layer: Mybatis, JPA, Jooq, Querydsl, JDSL(Line)
+- Code Style: Object Oriented Programming + Functional Programming
+- 3rd party: Redis, MQTT/RabbitMQ/Kafka
+- Infra/Cloud: Kubernetes, AWS
 - Etc: Writing
-
-### Learn
-- Redis, Kafka(Apache, Confluent)/Kafka Connect/Kafka Stream/KSQLDB, Kubernetes
-
 
 <a href="https://github.com/devxb/gitanimals">
   <img
